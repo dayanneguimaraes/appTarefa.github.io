@@ -1,0 +1,44 @@
+.home
+    display: flex
+    flex-direction: column
+    align-items: center
+    flex: 1 auto
+    .titulo-home
+        font-family: 'facilita-bold'
+        font-size: 26px
+        margin-bottom: 0
+    .subtitulo-home
+        font-family: 'facilita-semiBold'
+        font-size: 17px
+        color: #77899E
+        margin-top: 0
+    .grid
+        display: flex
+        flex-direction: column
+        width: 33%
+    .btn-icon
+        // z-index: 4
+        // right: 0
+        position: fixed
+        // display: flex
+        // justify-content: center
+        // align-items: center
+        bottom: 20px
+        right: 20px
+        button
+            cursor: pointer
+            background-color: #1AD18F
+            border: none
+            color: #FFFFFF
+            border-radius: 50%
+            height: 77px
+            width: 77px
+            font-size: 28px
+            display: flex
+            justify-content: center
+            align-items: center
+            // transition: background-color 0.3s, box-shadow 0.3s
+            &:active
+                background-color: #0ED984
+            &:hover
+                background-color: #0ED984

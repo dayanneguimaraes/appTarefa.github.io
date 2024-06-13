@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "paths": {
+      "@/*": ["./src/*"],
+      "@components/*": ["./src/components"],
+      "@assets/*": ["./src/assets/*"],
+      "@theme/*": ["./src/theme/*"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}

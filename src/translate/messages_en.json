@@ -1,0 +1,12 @@
+{
+    "login": {
+        "login": "Login",
+        "titulo": "Facilita Tasks",
+        "subtitulo": "Personal task management",
+        "tituloFormulario": "Enter your access credentials",
+        "nome": "Username or email",
+        "senha": "Password",
+        "entrar": "Sign in",
+        "esqueciMinhaSenha": "I forgot my password"
+    }
+}

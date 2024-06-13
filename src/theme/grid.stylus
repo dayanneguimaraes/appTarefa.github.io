@@ -1,0 +1,51 @@
+$breakpoint-xs = 0px; 
+$breakpoint-sm = 576px;
+$breakpoint-md = 959px;
+$breakpoint-lg = 1279x;
+$breakpoint-xl = 1919px;
+$breakpoint-xxl = 2559px;
+
+$grid-cols-xs = 12;
+$grid-col-sm = 12;
+$grid-col-md = 12;
+$grid-col-lg = 12;
+$grid-col-xl = 12;
+$grid-col-xxl = 12;
+
+@media (min-width: $breakpoint-sm)
+    $grid-col-sm = 6
+
+@media (min-width: $breakpoint-md)
+    $grid-col-md = 4
+
+@media (min-width: $breakpoint-lg)
+    $grid-col-lg = 3
+
+@media (min-width: $breakpoint-xl)
+    $grid-col-xl = 2
+
+@media (min-width: $breakpoint-xxl)
+    $grid-col-xxl = 1
+
+.col 
+    display: inline-block;
+    box-sizing: border-box;
+
+.col-xs
+    width: calc(100% / $grid-cols-xs)
+
+.col-sm
+    width: calc(100% / $grid-col-sm)
+
+.col-md
+    width: calc(100% / $grid-col-md)
+
+.col-lg
+    width: calc(100% / $grid-col-lg)
+
+.col-xl
+    width: calc(100% / $grid-col-xl)
+
+.col-xxl
+    width: calc(100% / $grid-col-xxl)
+

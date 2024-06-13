@@ -1,0 +1,46 @@
+{
+    "login": {
+        "login": "Login",
+        "titulo": "Facilita",
+        "task": "Tasks",
+        "subtitulo": "Gestão de tarefas pessoais",
+        "tituloFormulario": "Entre com seus dados de acessos",
+        "nome": "Nome de usuário ou e-mail:",
+        "senha": "Senha:",
+        "entrar": "Entrar",
+        "esqueciMinhaSenha": "Esqueci minha senha"
+    },
+    "menu": {
+        "dashboard": "Dashboard",
+        "tarefas": "Tarefas",
+        "configuracoes": "Configurações"
+    },
+    "header": {
+        "txtSair": "Sair"
+    },
+    "home": {
+        "titulo": "Minhas Tarefas",
+        "msgBemVindo": "Olá {param}, você tem {param1} tarefas pendentes.",
+        "txtBusca": "Buscar Tarefas",
+        "txtTotas": "Todas",
+        "txtCategorias": "Categorias",
+        "txtUrgentes": "Urgentes",
+        "txtImportantes": "Importantes",
+        "txtOutras": "Outras",
+        "txtFinalizadas": "Finalizadas",
+        "txtEditar": "Editar",
+        "txtExcluir": "Excluir",
+        "txtIncluir": "Incluir"
+    },
+    "tarefas": {
+            "cadastrarTarefa": "Cadastrar Tarefa",
+            "titulo": "Titulo:",
+            "descricao": "Descrição:",
+            "msgExcluir": "Tem certeza que deseja excluir esta tarefa?",
+            "msgExcluirSubtitulo": "Esta ação não poderá ser desfeita",
+            "txtAdicionar": "Adicionar",
+            "txtCancelar": "Cancelar",
+            "txtConfirmar": "Confirmar",
+            "txtEditar": "Editar"
+        }
+} 

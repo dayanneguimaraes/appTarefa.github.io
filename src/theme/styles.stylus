@@ -1,0 +1,32 @@
+@font-face 
+    font-family: 'facilita-regular';
+    src: url('/fonts/gilroy-font/SVN-Gilroy Regular.ttf') format('truetype');
+@font-face 
+    font-family: 'facilita-bold';
+    src: url('/fonts/gilroy-font/SVN-Gilroy Bold.ttf') format('truetype');
+@font-face 
+    font-family: 'facilita-italic';
+    src: url('/fonts/gilroy-font/SVN-Gilroy Italic.ttf') format('truetype');
+@font-face 
+    font-family: 'facilita-light';
+    src: url('/fonts/gilroy-font/SVN-Gilroy Light.ttf') format('truetype');
+@font-face 
+    font-family: 'facilita-medium';
+    src: url('/fonts/gilroy-font/SVN-Gilroy Medium.ttf') format('truetype');
+@font-face 
+    font-family: 'facilita-semiBold';
+    src: url('/fonts/gilroy-font/SVN-Gilroy SemiBold.ttf') format('truetype');
+@font-face 
+    font-family: 'facilita-thin';
+    src: url('/fonts/gilroy-font/SVN-Gilroy Thin.ttf') format('truetype');
+
+
+html 
+    overflow: hidden;
+    min-height: 100%;
+    height: 100%;
+
+    body 
+        font-family: 'facilita-regular'
+        overflow: hidden;
+        margin: 0;
