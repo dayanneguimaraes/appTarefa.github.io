@@ -56,7 +56,7 @@ export default {
     margin-bottom: 20px;
 
 label
-    font-family: 'facilita-semiBold';
+    font-family: 'tarefa-semiBold';
     color: #4E657B;
     font-size: 14px;
     display: block;

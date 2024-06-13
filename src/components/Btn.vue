@@ -37,7 +37,7 @@ export default {
 
 <style lang="stylus" scoped>
 .btn
-    font-family: "facilita-bold";
+    font-family: "tarefa-bold";
     font-size: 16px;
     display: inline-block;
     padding: 0.5rem 1rem;

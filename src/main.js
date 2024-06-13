@@ -26,7 +26,6 @@ library.add(faCircle);
 library.add(faMagnifyingGlass);
 library.add(faXmark);
 
-// Vue.config.productionTip = false;
 app.component('font-awesome-icon', FontAwesomeIcon);
 app.use(i18n)
 app.use(Vuex);

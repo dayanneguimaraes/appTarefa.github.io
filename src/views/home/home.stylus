@@ -4,11 +4,11 @@
     align-items: center
     flex: 1 auto
     .titulo-home
-        font-family: 'facilita-bold'
+        font-family: 'tarefa-bold'
         font-size: 26px
         margin-bottom: 0
     .subtitulo-home
-        font-family: 'facilita-semiBold'
+        font-family: 'tarefa-semiBold'
         font-size: 17px
         color: #77899E
         margin-top: 0
@@ -17,12 +17,7 @@
         flex-direction: column
         width: 33%
     .btn-icon
-        // z-index: 4
-        // right: 0
         position: fixed
-        // display: flex
-        // justify-content: center
-        // align-items: center
         bottom: 20px
         right: 20px
         button
@@ -37,7 +32,6 @@
             display: flex
             justify-content: center
             align-items: center
-            // transition: background-color 0.3s, box-shadow 0.3s
             &:active
                 background-color: #0ED984
             &:hover

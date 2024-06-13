@@ -15,9 +15,6 @@
                 {{ option[item] }}
             </div>
         </div>
-        <!-- {{ internalValue }} -->
-        <!-- {{ errors }} -->
-        <!-- {{ item }} -->
     </div>
 </template>
 
@@ -55,7 +52,6 @@ export default {
     },
     data() {
         return {
-            // options: ["Apple", "Banana", "Cherry", "Date", "Fig", "Grape", "Honeydew"],
             filterOptions: [],
             internalValue: this.modelValue,
             isDropDownVisible: false,

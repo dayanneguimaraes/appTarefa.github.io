@@ -68,7 +68,7 @@ export default {
     display: flex;
     align-items: center
     button
-        font-family: 'facilita-semiBold'
+        font-family: 'tarefa-semiBold'
         background-color: #FFFFFF
         border: none
         display: flex

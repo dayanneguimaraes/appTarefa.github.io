@@ -2,7 +2,7 @@
     <div class="app-login">
         <div class="side-right">
             <div class="content-logo">
-                <img src="@/assets/logo.png" alt="FacilitaTask" width="115" height="109"/>
+                <img src="@/assets/logo.png" alt="TarefaTask" width="115" height="109"/>
                 <span class="titulo">
                     <span class="titulo-1">{{ $t('login.titulo') }}</span>
                     <span class="titulo-task">{{ $t('login.task') }}</span>

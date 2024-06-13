@@ -72,13 +72,13 @@ export default {
     margin-bottom: 0.5rem;
     justify-content: space-between
     .item-name
-        font-family: 'facilita-semiBold'
+        font-family: 'tarefa-semiBold'
         font-size: 15px
         color: #304458
         flex-grow: 1
         margin-left: 10px
     .item-chip
-        font-family: 'facilita-bold'
+        font-family: 'tarefa-bold'
         font-size: 11px
         color: #FFFFFF
         border-radius: 40px

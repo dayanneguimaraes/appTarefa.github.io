@@ -64,7 +64,7 @@ export default {
             margin: 0
             padding: 0
         li
-            font-family: 'facilita-semiBold'
+            font-family: 'tarefa-semiBold'
             font-size: 14px
             color: #748CA5
             padding: 8px

@@ -59,7 +59,7 @@ export default {
     input
         margin-right: 0.5rem;
     label
-        font-family: 'facilita-semiBold';
+        font-family: 'tarefa-semiBold';
         font-size: 14px;
         color: #4E657B;
         padding-top: 7px

@@ -1,7 +1,6 @@
 <template>
     <div>
         <Modal :show="showModal" @close="fecharModal">
-            {{ tarefa }}
             <h2>{{ $t('tarefas.cadastrarTarefa')}}</h2>
             <TextField :label="$t('tarefas.titulo')" id="titulo" :value="tarefa.name" @update:modelValue="updateTarefaName"/>
             <Textarea

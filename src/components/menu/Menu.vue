@@ -2,7 +2,7 @@
     <aside class="sidebar">
         <nav class="navbar">
             <div class="sidebar-logo" @click="openHome()">
-                <img src="@/assets/logo.png" alt="FacilitaTask" width="55" height="55"/>
+                <img src="@/assets/logo.png" alt="TarefaTask" width="55" height="55"/>
             </div>
             <div class="sidebar-menu">
                 <ul class="list-menu">
@@ -97,7 +97,7 @@ export default {
                     .list-item
                         button
                             cursor: pointer
-                            font-family: 'facilita-bold'
+                            font-family: 'tarefa-bold'
                             font-size: 12px
                             padding: 5px
                             background-color: #2693FF

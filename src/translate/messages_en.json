@@ -1,7 +1,7 @@
 {
     "login": {
         "login": "Login",
-        "titulo": "Facilita Tasks",
+        "titulo": "Tasks",
         "subtitulo": "Personal task management",
         "tituloFormulario": "Enter your access credentials",
         "nome": "Username or email",
